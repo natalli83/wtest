@@ -1,0 +1,19 @@
+{
+  "name": "SB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "element-resize-detector": "^1.1.14",
+    "vue-echarts": "^3.1.3",
+    "vuedraggable": "^2.16.0"
+  },
+  "devDependencies": {
+  }
+}
